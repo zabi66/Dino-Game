@@ -2,7 +2,7 @@ body{
   background: #7df3d1; 
   background: -webkit-linear-gradient(to right, #5effc6, #6dffd5);  
   background: linear-gradient(to right, #5b8fea, #e1939e);
-  overflow-x: hidden
+/*   overflow-x: hidden; */
 }
 h2{
   font-size: 70px;
